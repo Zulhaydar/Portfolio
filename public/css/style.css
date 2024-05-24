@@ -1,0 +1,14 @@
+.sampul {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+
+.text-center {
+  text-align: center;
+}
